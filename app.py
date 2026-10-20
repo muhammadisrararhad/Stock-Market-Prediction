@@ -24,7 +24,6 @@ for dirname, _, filenames in os.walk('/kaggle/input'):
 
 import matplotlib.pyplot as plt
 import pandas as pd
-import seaborn as sns
 import yfinance as yf
 
 # 1. Define tickers and download historical data (e.g., 2024 to 2026)
