@@ -75,10 +75,6 @@ plt.tight_layout()
 # Display the chart
 plt.show()
 
-
-# 1. Install any required packages (just in case)
-get_ipython().getoutput("pip install -q yfinance xgboost scikit-learn matplotlib pandas")
-
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
